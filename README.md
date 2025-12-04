@@ -1,8 +1,6 @@
 [![Evaristo García Zambrana](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1&pause=1000&multiline=true&repeat=false&width=435&height=33&lines=Evaristo+Garc%C3%ADa+Zambrana)](https://git.io/typing-svg)
 [![SysAdmin / DevOps / Cloud Computing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&repeat=false&width=435&height=45&lines=SysAdmin+%2F+DevOps+%2F+Cloud+Computing)](https://git.io/typing-svg)
 
----
-
 ## 📝 About me
 
 Systems Administrator with solid experience in automation, Linux systems, and cloud infrastructures (OVH Cloud, AWS, and GCP). Experienced as a DevOps engineer implementing CI/CD pipelines, IaC-based infrastructures, and software architectures using Docker and Kubernetes. I bring expertise in process optimization focused on continuous improvement and stability.
