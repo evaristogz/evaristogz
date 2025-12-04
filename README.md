@@ -1,2 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&multiline=true&repeat=false&width=435&height=45&lines=Evaristo+Garc%C3%ADa+Zambrana)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=435&height=45&lines=SysAdmin+%2F+DevOps+%2F+Cloud+Computing)](https://git.io/typing-svg)
+[![Evaristo García Zambrana](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&multiline=true&repeat=false&width=435&height=31&lines=Evaristo+Garc%C3%ADa+Zambrana)](https://git.io/typing-svg)
+[![SysAdmin / DevOps / Cloud Computing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=435&height=45&lines=SysAdmin+%2F+DevOps+%2F+Cloud+Computing)](https://git.io/typing-svg)
